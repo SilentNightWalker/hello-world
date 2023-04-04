@@ -17,6 +17,10 @@ Basic Python programming
 
 Machine learning
 
+Leading Teams
+
+Conceptualizing, communicating and developing projects
+
 Natural language processing
 
 Prompt Engineering
