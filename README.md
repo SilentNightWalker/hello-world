@@ -3,7 +3,7 @@ My GitHub hello-world repository
 
 # JD Bucklin
 
-I have been exploring, studying, and using AI for years. I am self-taught and am passionate about protecting autonomy of thought.
+I have been exploring, studying, and using AI for years. I am self-taught in computers and am passionate about protecting autonomy of thought.
 
 ## Book
 
