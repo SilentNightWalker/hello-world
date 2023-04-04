@@ -19,6 +19,8 @@ Machine learning
 
 Natural language processing
 
+Prompt Engineering
+
 Data analysis
 
 I am always looking to learn more and improve my skills.
