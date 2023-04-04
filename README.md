@@ -23,7 +23,7 @@ Prompt Engineering
 
 Data analysis
 
-I am always looking to learn more and improve my skills.
+I am always working to learn more and improve my skills.
 
 ## Contact
 
