@@ -7,7 +7,7 @@ I have been exploring, studying, and using AI for years. I am self-taught in com
 
 ## Book
 
-I wrote and published the book [AI A Book by ChatGPT & Me](https://www.amazon.com/dp/B0BVY3FM3Z?ref_=k4w_ss_store_lp) using ChatGPT as a thought experiment. It was a fascinating journey and through that I was able to learn more and share a bit about the potential of AI to augment and enhance human creativity as well as the vital importance of implementing AI with intention.
+I wrote and published the book [AI A Book by ChatGPT & Me](https://www.amazon.com/dp/B0BVY3FM3Z?ref_=k4w_ss_store_lp) using ChatGPT as a thought experiment. It was a fascinating journey and through that I was able to learn more and discuss the potential of AI to augment and enhance human creativity as well as the vital importance of implementing AI with intention.
 
 ## Skills
 
