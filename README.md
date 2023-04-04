@@ -13,19 +13,19 @@ I wrote and published the book *[AI A Book by ChatGPT & Me](https://www.amazon.c
 
 A few of my skills include:
 
-Basic Python programming
-
-Machine learning
+Conceptualizing, communicating and developing projects
 
 Leading Teams
-
-Conceptualizing, communicating and developing projects
 
 Natural language processing
 
 Prompt Engineering
 
 Data analysis
+
+Basic Java and Python programming
+
+Machine Learning
 
 I am always working to learn more and improve my skills.
 
