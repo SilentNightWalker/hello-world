@@ -25,8 +25,6 @@ Data analysis
 
 Basic Java and Python programming
 
-Machine Learning
-
 I am always working to learn more and improve my skills.
 
 ## Contact
